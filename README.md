@@ -1,6 +1,8 @@
 # Cross-Geography Agricultural Field Boundary Segmentation via Temporally-Aware Dataset Harmonization
 
-Official code for our PRICAI 2026 paper. We propose a dataset harmonization framework that bridges the Fields of the World (FTW) and PASTIS benchmarks through NDVI-guided temporal compression and a Temporal Contrast Boundary Module (TCBM), achieving improved cross-geography generalization for agricultural field boundary segmentation.
+![Graphical Abstract](figures/fig0_graphical_abstract.png)
+
+Official code for our PRICAI 2026 paper. We propose a dataset harmonization framework that bridges the Fields of the World (FTW) and PASTIS benchmarks through NDVI-guided temporal compression and a Temporal Contrast Boundary Module (TCBM), achieving improved cross-geography generalization for agricultural field boundary segmentation. We propose a dataset harmonization framework that bridges the Fields of the World (FTW) and PASTIS benchmarks through NDVI-guided temporal compression and a Temporal Contrast Boundary Module (TCBM), achieving improved cross-geography generalization for agricultural field boundary segmentation.
 
 ## Key Results
 
