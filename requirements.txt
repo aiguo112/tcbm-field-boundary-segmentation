@@ -1,0 +1,15 @@
+# Core ML
+torch>=2.0.0
+torchvision>=0.15.0
+segmentation-models-pytorch==0.5.0
+timm==1.0.25
+
+# Numerics & geospatial
+numpy==2.3.3
+rasterio==1.4.4
+scipy==1.17.1
+
+# Visualization & utilities
+matplotlib==3.10.8
+tqdm==4.67.3
+pillow==12.1.1

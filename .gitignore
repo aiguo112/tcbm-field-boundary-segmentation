@@ -1,0 +1,38 @@
+# Datasets - never commit
+data/
+*.tif
+*.tiff
+*.npy
+ftw-baselines/
+PASTIS/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+.conda/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+wandb/
+
+# Large checkpoint files (if not selectively included above)
+*.pth
+*.pt
+*.ckpt
+
+# Allow selectively included checkpoints in checkpoints/
+!checkpoints/
+!checkpoints/**/
+!checkpoints/**/*.pth
+
+# Temp files
+requirements_full.txt
