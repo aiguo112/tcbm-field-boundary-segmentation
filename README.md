@@ -1,4 +1,4 @@
-# Cross-Geography Agricultural Field Boundary Segmentation via Temporally-Aware Dataset Harmonization
+# Phenological Contrast: A Geography-Agnostic Prior for Cross-Geography Field Boundary Segmentation
 
 ![Graphical Abstract](figures/fig0_graphical_abstract.png)
 
