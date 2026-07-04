@@ -66,7 +66,7 @@ If you use this code, please cite:
 @inproceedings{[citation_key]2026,
   title={Cross-Geography Agricultural Field Boundary Segmentation via Temporally-Aware Dataset Harmonization},
   author={[Author Names]},
-  booktitle={Proceedings of PRICAI 2026},
+  booktitle={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing },
   year={2026}
 }
 ```
