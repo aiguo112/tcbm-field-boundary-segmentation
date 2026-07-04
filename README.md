@@ -65,7 +65,8 @@ If you use this code, please cite:
 ```bibtex
 @inproceedings{[citation_key]2026,
   title={Phenological Contrast: A Geography-Agnostic Prior for Cross-Geography Field Boundary Segmentation},
-  author={[Author Names]},
+  author={[	Ghulam Arbi, 	Naveed Ur Rehman Junejo, Abid Hussain
+Corresponding Author]},
   booktitle={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing },
   year={2026}
 }
