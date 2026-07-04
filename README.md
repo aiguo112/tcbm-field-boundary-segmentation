@@ -64,7 +64,7 @@ If you use this code, please cite:
 
 ```bibtex
 @inproceedings{[citation_key]2026,
-  title={Cross-Geography Agricultural Field Boundary Segmentation via Temporally-Aware Dataset Harmonization},
+  title={Phenological Contrast: A Geography-Agnostic Prior for Cross-Geography Field Boundary Segmentation},
   author={[Author Names]},
   booktitle={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing },
   year={2026}
